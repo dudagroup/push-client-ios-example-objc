@@ -1,0 +1,3 @@
+[submodule "submodules/push-client-ios"]
+	path = submodules/push-client-ios
+	url = https://github.com/dudagroup/push-client-ios.git
